@@ -1,16 +1,24 @@
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
 }
-.container{
-    display: flex;
-    flex-direction: row;
-    height: 3em;
+div{
+    background-color: red;
+    height: 10em;
+    width: 10em;
+    
+}
+
+.secondLine{
+    background-color: blue;
+    height: 10em;
+    width: 10em;
+    
+    
+}
+.thirdLine{
+    background-color: violet;
+    height: 10em;
+    width: 10em;
+    
     
 }
