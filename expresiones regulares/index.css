@@ -1,0 +1,22 @@
+body{
+    display: grid;
+}
+div{
+    background-color: red;
+    height: 10em;
+    width: 10em;
+    
+}
+
+.secondLine{
+    background-color: blue;
+    height: 10em;
+    width: 10em;
+    
+    
+}
+.thirdLine{
+    background-color: violet;
+    height: 10em;
+    width: 10em;
+}
